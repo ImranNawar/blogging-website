@@ -106,7 +106,14 @@ body {
   line-height: 30px;
 }
 
-.btn .dark {
+.btn.dark {
   background: #1b1b1b;
   color: #fff;
+}
+
+.btn.grey {
+  background: #a5a5a5;
+  color: #fff;
+  margin-left: 20px;
+  font-size: 14px;
 }
